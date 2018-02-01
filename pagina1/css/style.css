@@ -1,0 +1,25 @@
+#inicio,#sobre,#gols,#premios{
+	min-height: 600px;
+	/*max-width: 1980px;*/
+}
+.menu{
+		background-color: #B0E0E6;
+}
+.center{
+	text-align: center;
+}
+img.profile {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+.home{
+	background-image: url(../img/cr7back1.jpg);
+	background-size: cover;
+   
+    
+    width: 100%;
+}
+.text-minha-cor{
+	color: #FF0000;
+}
